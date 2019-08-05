@@ -1,0 +1,12 @@
+
+
+
+[ client ]  < JSON >  [ API ]
+
+
+
+A client makes requests to the server. 
+The server must listen to requests in a particular port.
+
+
+
