@@ -91,6 +91,6 @@ server.put('/hubs/:id', (req, res) => {
 
 
 
-const port = 8000;
+const port = 7777;
 
-server.listen(port, () => console.log('\napi is running\n') )
+server.listen(port, () => console.log(`\napi is running on port ${port}\n`) )
